@@ -14,4 +14,4 @@ logging: # <----New sections below
 greeting:
   displayFortune: true
 
-quoteServiceURL: http://quote-service-dev.cfapps.io/quote
+quoteServiceURL: http://quote-fg.cfapps.io/quote
